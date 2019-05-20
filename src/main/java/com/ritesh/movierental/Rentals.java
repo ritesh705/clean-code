@@ -1,4 +1,4 @@
-package com.thoughtworks.movierental;
+package com.ritesh.movierental;
 
 import java.util.ArrayList;
 import java.util.List;

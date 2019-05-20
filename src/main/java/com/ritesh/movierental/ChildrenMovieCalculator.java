@@ -1,4 +1,4 @@
-package com.thoughtworks.movierental;
+package com.ritesh.movierental;
 
 class ChildrenMovieCalculator implements ICalculator {
     @Override
